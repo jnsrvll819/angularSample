@@ -26,17 +26,17 @@
 			"address": "Coruscant",
 			"role": "Leader",
 			"email": "obiwankenobi@accenture.com"
-		},
+		}
 	],
 	"Todo":[
 		{
 			"name": "Jonas Revilla",
 			"task": "Angular Training."
-		}
+		},
 		{
 			"name": "Jonas Revilla",
 			"task": "Java Spring Boot Training."
-		}
+		},
 		{
 			"name": "Jonas Revilla",
 			"task": "Angular Sample Project Activity."
@@ -47,11 +47,11 @@
 		{
 			"name": "Jonas Revilla",
 			"task": "Bootcamp Training."
-		}
+		},
 		{
 			"name": "Jonas Revilla",
 			"task": "Bootcamp Assessment."
-		}
+		},
 		{
 			"name": "Jonas Revilla",
 			"task": "New Joiner Orientation."
