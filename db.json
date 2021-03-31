@@ -40,6 +40,30 @@
 		{
 			"name": "Jonas Revilla",
 			"task": "Angular Sample Project Activity."
+		},
+		{
+			"name": "Darth Vader",
+			"task": "Rule the Galaxy."
+		},
+		{
+			"name": "Darth Vader",
+			"task": "Hunt the remaining Jedis and rebels."
+		},
+		{
+			"name": "Darth Vader",
+			"task": "Kill Obi-Wan Kenobi."
+		},
+		{
+			"name": "Obi Wan Kenobi",
+			"task": "Gather the remaining Jedis."
+		},
+		{
+			"name": "Obi Wan Kenobi",
+			"task": "Stop Darth Vader."
+		},
+		{
+			"name": "Obi Wan Kenobi",
+			"task": "Defeat the emperor, Darth Sidious."
 		}
 	],
 	"Doing":[
@@ -55,6 +79,30 @@
 		{
 			"name": "Jonas Revilla",
 			"task": "New Joiner Orientation."
+		},
+		{
+			"name": "Darth Vader",
+			"task": "Kill the younglings."
+		},
+		{
+			"name": "Darth Vader",
+			"task": "Establish my new Empire."
+		},
+		{
+			"name": "Darth Vader",
+			"task": "Train in the Dark Side."
+		},
+		{
+			"name": "Obi Wan Kenobi",
+			"task": "Go to Tattoine and train how to commune with my master, Qui-Gon Jinn."
+		},
+		{
+			"name": "Obi Wan Kenobi",
+			"task": "Protect Anakin's son, Luke Skywalker."
+		},
+		{
+			"name": "Obi Wan Kenobi",
+			"task": "Defeat the Sith apprentice, Darth Maul."
 		}
 	]
 }
