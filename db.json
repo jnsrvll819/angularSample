@@ -1,0 +1,60 @@
+{
+    "Member": [
+		{
+			"name": "Jonas Revilla",
+			"gender": "Male",
+			"dateOfBirth": "1998-04-15T00:00:00.000Z",
+			"age": 22,
+			"address": "Silang Cavite",
+			"role": "Member",
+			"email": "jnsrvllacn@accenture.com"
+		},
+		{
+			"name": "Darth Vader",
+			"gender": "Male",
+			"dateOfBirth": "1993-08-19T00:00:00.000Z",
+			"age": 22,
+			"address": "Tattoine",
+			"role": "Leader",
+			"email": "darthvader@accenture.com"
+		},
+		{
+			"name": "Obi Wan Kenobi",
+			"gender": "Male",
+			"dateOfBirth": "1991-02-20T00:00:00.000Z",
+			"age": 22,
+			"address": "Coruscant",
+			"role": "Leader",
+			"email": "obiwankenobi@accenture.com"
+		},
+	],
+	"Todo":[
+		{
+			"name": "Jonas Revilla",
+			"task": "Angular Training."
+		}
+		{
+			"name": "Jonas Revilla",
+			"task": "Java Spring Boot Training."
+		}
+		{
+			"name": "Jonas Revilla",
+			"task": "Angular Sample Project Activity."
+		}
+	]
+	"Doing":[
+	
+		{
+			"name": "Jonas Revilla",
+			"task": "Bootcamp Training."
+		}
+		{
+			"name": "Jonas Revilla",
+			"task": "Bootcamp Assessment."
+		}
+		{
+			"name": "Jonas Revilla",
+			"task": "New Joiner Orientation."
+		}
+	]
+}
